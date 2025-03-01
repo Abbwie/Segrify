@@ -30,3 +30,5 @@ Dummy explanation (your angle may depend on what placement your servomotor is)
  ------
  >if 15<= detected index <=30 - - slide the servomotor to the biodegredable
  -------------
+
+ PLS USE KERAS.H5 MODEL IN TEACHABLE MACHINE
